@@ -12,9 +12,9 @@ import { Toaster } from "react-hot-toast";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "Gourab | Personal Portfolio",
-  description: "Gourab is a software developer having expertise in both frontend and backend and an experience of almost 1.5 years.",
+const metadata = {
+  title: "Argha | Personal Portfolio",
+  description: "Argha a software developer with proven skills through diverse personal and academic projects.",
 };
 
 export default function RootLayout({ children }) {
